@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1>Comming Soon....</h1>
+      <h1>Hello Sujeen dai</h1>
     </>
   )
 }
