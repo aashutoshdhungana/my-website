@@ -1,11 +1,7 @@
+import Portfolio from './components/Portfolio';
 import './App.css'
-
-function App() {
-  return (
-    <>
-      <h1>Comming Soon...</h1>
-    </>
-  )
+const App = () => {
+  return <Portfolio/>
 }
 
-export default App
+export default App;
